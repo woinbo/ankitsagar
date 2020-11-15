@@ -6,6 +6,6 @@ class Constants {
   static const PROFILE_LINKEDIN = 'https://www.linkedin.com/in/woinbo/';
   static const PROFILE_FACEBOOK = 'https://www.facebook.com/woinbo';
   static const PROFILE_GITHUB = 'https://github.com/woinbo/';
-  static const PROFILE_TWITTER = 'https://twitter.com/woinbo';
+  static const PROFILE_TWITTER = 'https://twitter.com/woinb';
   static const PROFILE_INSTAGRAM = 'https://www.instagram.com/woinbo/';
 }
