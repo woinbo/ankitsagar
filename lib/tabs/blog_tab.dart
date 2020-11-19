@@ -38,7 +38,7 @@ class _BlogTabState extends State<BlogTab> {
           Padding(
             padding: const EdgeInsets.all(8.0),
             child: Text(
-              'Something went wrong',
+              'Something went wrong \nPlease refresh the page',
               style: Theme.of(context).textTheme.headline,
             ),
           ),
