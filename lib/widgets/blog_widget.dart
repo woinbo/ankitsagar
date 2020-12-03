@@ -38,7 +38,7 @@ class BlogWidget extends StatelessWidget {
               ),
               Text(blog.content.subtitle,
                   style: Theme.of(context).textTheme.subtitle),
-              Text(blog.virtuals.totalClapCount)
+              // Text(blog.virtuals.totalClapCount)
             ],
           ),
         ),

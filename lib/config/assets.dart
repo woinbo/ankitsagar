@@ -9,4 +9,5 @@ class Assets {
   static const medium_light = 'assets/medium_light.png';
   static const twitter = 'assets/twitter.png';
   static const doctropedia = 'assets/works/doctropedia.png';
+  static const pigeon = 'assets/works/pigeon.webp';
 }

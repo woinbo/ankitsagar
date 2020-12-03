@@ -9,4 +9,9 @@ final List<Project> projects = [
           'Doctropedia is a tele-medicine app where user can call doctors and can take their health prescription of very light disease',
       link:
           'https://play.google.com/store/apps/details?id=in.doctropedia.doctropedia'),
+  Project(
+      name: 'Pigeon',
+      image: Assets.pigeon,
+      description: '',
+      link: 'https://play.google.com/store/apps/details?id=io.woinbo.pigeon'),
 ];
