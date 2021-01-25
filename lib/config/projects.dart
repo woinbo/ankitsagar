@@ -13,6 +13,6 @@ final List<Project> projects = [
       name: 'Pigeon',
       image: Assets.pigeon,
       description:
-          'A real time chatting app with cool UI and awesome features. Download it from Google play store and enjoy the real time messaging. It\'s not just chatting app more than that. Fly with our Pigeon\nHappy coding<\\>',
+          'A real time chatting app with cool UI and awesome features. Download it from Google play store and enjoy the real time messaging. It\'s not just chatting app more than that. Fly with our Pigeon\n<\\Happy coding>',
       link: 'https://play.google.com/store/apps/details?id=io.woinbo.pigeon'),
 ];
